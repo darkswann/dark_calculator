@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\bin\Debug\netcoreapp3.1\dark_calculator.exe
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\bin\Debug\netcoreapp3.1\dark_calculator.deps.json
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\bin\Debug\netcoreapp3.1\dark_calculator.runtimeconfig.json
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\bin\Debug\netcoreapp3.1\dark_calculator.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\bin\Debug\netcoreapp3.1\dark_calculator.dll
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\bin\Debug\netcoreapp3.1\dark_calculator.pdb
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\obj\Debug\netcoreapp3.1\dark_calculator.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\obj\Debug\netcoreapp3.1\dark_calculator.Form1.resources
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\obj\Debug\netcoreapp3.1\dark_calculator.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\obj\Debug\netcoreapp3.1\dark_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\obj\Debug\netcoreapp3.1\dark_calculator.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\obj\Debug\netcoreapp3.1\dark_calculator.AssemblyInfo.cs
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\obj\Debug\netcoreapp3.1\dark_calculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\obj\Debug\netcoreapp3.1\dark_calculator.dll
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\obj\Debug\netcoreapp3.1\dark_calculator.pdb
+C:\Users\admin\Desktop\Visual Studio Programları\dark_calculator\dark_calculator\obj\Debug\netcoreapp3.1\dark_calculator.genruntimeconfig.cache
