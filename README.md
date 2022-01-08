@@ -2,7 +2,7 @@
 
 <h2 > C# İle Yazmış Olduğum Gelişmiş Hesap Makinası Sizlerle 👋 </h2>
 
-![hesapmakinası](https://www.hizliresim.com/oqfd0qv)
+![hesapmakinası]([https://www.hizliresim.com/oqfd0qv görsel])
 
 <br> 
 
