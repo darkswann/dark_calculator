@@ -2,7 +2,7 @@
 
 <h2 > C# İle Yazmış Olduğum Gelişmiş Hesap Makinası Sizlerle 👋 </h2>
 
-![alt text](https://github.com/darkswann/dark_calculator/dark_calculator.png)
+![alt text](https://www.hizliresim.com/oqfd0qv)
 
 <br> 
 
