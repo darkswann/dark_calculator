@@ -4,7 +4,7 @@
 <br>
 
 
-<h3> Yaptığımız Uygulama Görüntüsü 🤗 </h3>
+<h2> Yaptığımız Uygulama Görüntüsü 🤗 </h2>
 
 
 ![image](https://i.hizliresim.com/csf1zgj.png)
