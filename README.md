@@ -1,6 +1,4 @@
-# dark_calculator
-
-<h2 > C# İle Yazmış Olduğum Gelişmiş Hesap Makinası Sizlerle 👋 </h2>
+<h1 > C# İle Yazmış Olduğum Gelişmiş Hesap Makinası Sizlerle 👋 </h1>
 
 <br>
 <br>
